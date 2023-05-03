@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karelkedl
-- 👀 I’m interested in python, SDR, matlab
+- 👀 I’m interested in python, SDR
 - 🌱 I’m currently learning python and how to control SDR
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
